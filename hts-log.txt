@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Dec 2024 09:39:21 at https://www.suipei.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.suipei.xyz/ -O1 "C:\My Web Sites\SUIPEI" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:39:42	Error: 	"Not Found" (404) at link https://www.suipei.xyz/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css (from https://www.suipei.xyz/)
+09:39:42	Error: 	"Not Found" (404) at link https://www.suipei.xyz/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/brands.min.css (from https://www.suipei.xyz/)
+09:39:42	Error: 	"Not Found" (404) at link https://www.suipei.xyz/unpkg.com/aos%402.3.1/dist/aos.css (from https://www.suipei.xyz/)
+09:39:42	Error: 	"Not Found" (404) at link https://www.suipei.xyz/chrome-extension_/liecbddmkiiihnedobmlmillhodjkdmb/fonts/CircularXXWeb-Book.html (from https://www.suipei.xyz/)
+09:39:42	Error: 	"Not Found" (404) at link https://www.suipei.xyz/chrome-extension_/liecbddmkiiihnedobmlmillhodjkdmb/fonts/CircularXXWeb-Bold.html (from https://www.suipei.xyz/)
+09:39:42	Error: 	"Not Found" (404) at link https://www.suipei.xyz/kit.fontawesome.com/a076d05399.html (from https://www.suipei.xyz/)
+09:39:42	Error: 	"Not Found" (404) at link https://www.suipei.xyz/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8ef86.js?site=66b6af8186a8c0c670d5beb6 (from https://www.suipei.xyz/)
+09:39:42	Error: 	"Not Found" (404) at link https://www.suipei.xyz/unpkg.com/aos%402.3.1/dist/aos.js (from https://www.suipei.xyz/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 39 links scanned, 30 files written (14092730 bytes overall) [13727780 bytes received at 653703 bytes/sec], 563006 bytes transferred using HTTP compression in 22 files, ratio 26%
+(8 errors, 0 warnings, 0 messages)
